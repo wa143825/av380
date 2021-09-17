@@ -1,0 +1,22 @@
+PODS:
+  - av380 (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - av380 (from `.symlinks/plugins/av380/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  av380:
+    :path: ".symlinks/plugins/av380/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  av380: 4a19604c7bc5fe4925f8b6f3dc0b9e0e3e6e369a
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+
+PODFILE CHECKSUM: a264203edcfba1d2191f430fb6e552a79be45a4a
+
+COCOAPODS: 1.11.2

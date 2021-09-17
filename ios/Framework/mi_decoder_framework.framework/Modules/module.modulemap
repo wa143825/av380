@@ -1,0 +1,6 @@
+framework module mi_decoder_framework {
+  umbrella header "mi_decoder_framework.h"
+
+  export *
+  module * { export * }
+}
